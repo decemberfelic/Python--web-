@@ -1,0 +1,2 @@
+import django
+dir(django)
